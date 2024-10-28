@@ -1,13 +1,20 @@
-Title for selection:
+# Title for selection:
 
-The group members: Gabriella Stickney, Bhaaniu Jain
+### The group members: Gabriella Stickney, Bhaaniu Jain
 
-The format of your score files:
+#### The format of your score files:
 
-The actual score file used for your selection:
+#### The actual score file used for your selection: 
 
-One page for each component that describes the functioning of that component in detail.  Indicate ownership of each component and what grading elements are supported.
+effects_test.score is the score file used to demonstrate the effects component. AI was used to add some chords towards the end to create a longer piece.
 
+####.score is the file used to demonstrate the @@@@ synthesizer component.
+
+####.score is the score file used to demonstrate all of the components together.
+
+**Remove!! One page for each component that describes the functioning of that component in detail.  Indicate ownership of each component and what grading elements are supported.
+
+____________________________________________________
 The synthesis component(s) was completed by Gabriella.
 
 Synthesis Component(s):
