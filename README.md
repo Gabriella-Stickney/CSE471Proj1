@@ -2,9 +2,9 @@
 
 ### The group members: Gabriella Stickney, Bhaaniu Jain
 
-#### The format of your score files:
+###### The format of your score files:
 
-#### The actual score file used for your selection: 
+###### The actual score file used for your selection: 
 
 effects_test.score is the score file used to demonstrate the effects component. AI was used to add some chords towards the end to create a longer piece.
 
