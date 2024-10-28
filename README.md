@@ -15,12 +15,12 @@ Synthesis Component(s):
 The additive component is a technique that creates sound by combining sine waves. An additive synthesizer uses the principle that any sound can be formed by adding sinusoid, by specifying the amplitudes of the fundamental frequency and its harmonics.
 
 The grading elements supported are 
-10 - Sinusoid playback on demand from the sequencer
-20 - Definition of all harmonics
-30 - Envelope generation
-35 - Polyphony
-40 - Sound cross-fading
-50 - Vibrato OR glissando
+- Sinusoid playback on demand from the sequencer
+- Definition of all harmonics
+- Envelope generation
+- Polyphony
+- Sound cross-fading
+- Vibrato OR glissando
 
 The effects were completed by Bhaaniu.
 
