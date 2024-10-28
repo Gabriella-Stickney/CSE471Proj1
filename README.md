@@ -22,11 +22,22 @@ The grading elements supported are
 - Sound cross-fading
 - Vibrato OR glissando
 
+
+
+
 The effects were completed by Bhaaniu.
 
 Effects:
 
-- Flange
+- Flange:
+  
 - Chorus
 - Compression
 - Noisegate
+
+The grading elements supported are
+- Component passes audio
+- - 1 Effect
+- 3 Effects
+- Controllable effects send
+- 4 Effects
