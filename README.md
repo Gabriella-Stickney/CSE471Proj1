@@ -20,7 +20,7 @@ The grading elements supported are
 - Envelope generation
 - Polyphony
 - Sound cross-fading
-- Vibrato OR glissando
+- Vibrato
 
 
 
