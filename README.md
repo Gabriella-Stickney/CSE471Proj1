@@ -8,9 +8,9 @@
 
 effects_test.score is the score file used to demonstrate the effects component. AI was used to add some chords towards the end to create a longer piece.
 
-####.score is the file used to demonstrate the @@@@ synthesizer component.
+wave.score is the file used to demonstrate the @@@@ synthesizer component.
 
-####.score is the score file used to demonstrate all of the components together.
+furelise.score is the score file used to demonstrate all of the components together.
 
 **Remove!! One page for each component that describes the functioning of that component in detail.  Indicate ownership of each component and what grading elements are supported.
 
