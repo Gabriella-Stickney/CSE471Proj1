@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="3">
+     <instrument instrument="wavetable" chorus="2" flange="2" noisegate="2" compression="2">
+        <note measure="1" beat="1" duration="0.5" note="E4"/>
+        <note measure="1" beat="1.5" duration="0.5" note="D4" gliss="E4"/>
+        <note measure="1" beat="2" duration="0.5" note="E4"/>
+        <note measure="1" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="1" beat="3" duration="0.5" note="E4"/>
+        
+        <note measure="2" beat="1" duration="0.5" note="B3"/>
+        <note measure="2" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="2" beat="2" duration="0.5" note="C4"/>
+        <note measure="2" beat="2.5" duration="0.5" note="A3"/>
+        
+        <note measure="3" beat="1" duration="0.5" note="C3"/>
+        <note measure="3" beat="1.5" duration="0.5" note="E3"/>
+        <note measure="3" beat="2" duration="0.5" note="A3"/>
+        <note measure="3" beat="2.5" duration="0.5" note="B3"/>
+        
+        <note measure="4" beat="1" duration="0.5" note="E4"/>
+        <note measure="4" beat="1.5" duration="0.5" note="G4"/>
+        <note measure="4" beat="2" duration="0.5" note="F4"/>
+        <note measure="4" beat="2.5" duration="0.5" note="E4"/>
+        
+        <note measure="5" beat="1" duration="0.5" note="D4"/>
+        <note measure="5" beat="1.5" duration="0.5" note="F4"/>
+        <note measure="5" beat="2" duration="0.5" note="E4"/>
+        <note measure="5" beat="2.5" duration="0.5" note="D4"/>
+        
+        <note measure="6" beat="1" duration="0.5" note="E4"/>
+        <note measure="6" beat="1.5" duration="0.5" note="B3" gliss="D4"/>
+        <note measure="6" beat="2" duration="0.5" note="D4"/>
+        <note measure="6" beat="2.5" duration="0.5" note="C4"/>
+        
+        <note measure="7" beat="1" duration="0.5" note="A3"/>
+        <note measure="7" beat="1.5" duration="0.5" note="E4"/>
+        <note measure="7" beat="2" duration="0.5" note="C4"/>
+        <note measure="7" beat="2.5" duration="0.5" note="A3"/>
+        
+        <note measure="8" beat="1" duration="0.5" note="E4"/>
+        <note measure="8" beat="1.5" duration="0.5" note="D4" gliss="E4"/>
+        <note measure="8" beat="2" duration="0.5" note="E4"/>
+        <note measure="8" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="8" beat="3" duration="0.5" note="E4"/>
+        
+        <note measure="9" beat="1" duration="0.5" note="B3"/>
+        <note measure="9" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="9" beat="2" duration="0.5" note="C4"/>
+        <note measure="9" beat="2.5" duration="0.5" note="A3"/>
+
+	<note measure="10" beat="1" duration="0.5" note="E4"/>
+        <note measure="10" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="10" beat="2" duration="0.5" note="E4"/>
+        <note measure="10" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="10" beat="3" duration="0.5" note="E4"/>
+        
+        <note measure="11" beat="1" duration="0.5" note="B3"/>
+        <note measure="11" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="11" beat="2" duration="0.5" note="C4"/>
+        <note measure="11" beat="2.5" duration="0.5" note="A3"/>
+        
+        <note measure="12" beat="1" duration="0.5" note="C3"/>
+        <note measure="12" beat="1.5" duration="0.5" note="E3" gliss="A3"/>
+        <note measure="12" beat="2" duration="0.5" note="A3"/>
+        <note measure="12" beat="2.5" duration="0.5" note="B3"/>
+        
+        <note measure="13" beat="1" duration="0.5" note="E4"/>
+        <note measure="13" beat="1.5" duration="0.5" note="G4"/>
+        <note measure="13" beat="2" duration="0.5" note="F4"/>
+        <note measure="13" beat="2.5" duration="0.5" note="E4"/>
+        
+        <note measure="14" beat="1" duration="0.5" note="D4"/>
+        <note measure="14" beat="1.5" duration="0.5" note="F4"/>
+        <note measure="14" beat="2" duration="0.5" note="E4"/>
+        <note measure="14" beat="2.5" duration="0.5" note="D4"/>
+        
+        <note measure="15" beat="1" duration="0.5" note="E4"/>
+        <note measure="15" beat="1.5" duration="0.5" note="B3"/>
+        <note measure="15" beat="2" duration="0.5" note="D4" gliss="C4"/>
+        <note measure="15" beat="2.5" duration="0.5" note="C4"/>
+        
+        <note measure="16" beat="1" duration="0.5" note="A3"/>
+        <note measure="16" beat="1.5" duration="0.5" note="E4"/>
+        <note measure="16" beat="2" duration="0.5" note="C4"/>
+        <note measure="16" beat="2.5" duration="0.5" note="A3"/>
+        
+        <note measure="17" beat="1" duration="0.5" note="E4"/>
+        <note measure="17" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="17" beat="2" duration="0.5" note="E4"/>
+        <note measure="17" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="17" beat="3" duration="0.5" note="E4"/>
+        
+        <note measure="18" beat="1" duration="0.5" note="B3" gliss="D4"/>
+        <note measure="18" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="18" beat="2" duration="0.5" note="C4"/>
+        <note measure="18" beat="2.5" duration="0.5" note="A3"/>
+
+	<note measure="19" beat="1" duration="0.5" note="E4"/>
+        <note measure="19" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="19" beat="2" duration="0.5" note="E4"/>
+        <note measure="19" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="19" beat="3" duration="0.5" note="E4"/>
+        
+        <note measure="20" beat="1" duration="0.5" note="B3"/>
+        <note measure="20" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="20" beat="2" duration="0.5" note="C4"/>
+        <note measure="20" beat="2.5" duration="0.5" note="A3"/>
+        
+        <note measure="21" beat="1" duration="0.5" note="C3"/>
+        <note measure="21" beat="1.5" duration="0.5" note="E3"/>
+        <note measure="21" beat="2" duration="0.5" note="A3"/>
+        <note measure="21" beat="2.5" duration="0.5" note="B3"/>
+        
+        <note measure="22" beat="1" duration="0.5" note="E4"/>
+        <note measure="22" beat="1.5" duration="0.5" note="G4"/>
+        <note measure="22" beat="2" duration="0.5" note="F4"/>
+        <note measure="22" beat="2.5" duration="0.5" note="E4"/>
+        
+        <note measure="23" beat="1" duration="0.5" note="D4"/>
+        <note measure="23" beat="1.5" duration="0.5" note="F4" gliss="E4"/>
+        <note measure="23" beat="2" duration="0.5" note="E4"/>
+        <note measure="23" beat="2.5" duration="0.5" note="D4"/>
+        
+        <note measure="24" beat="1" duration="0.5" note="E4"/>
+        <note measure="24" beat="1.5" duration="0.5" note="B3"/>
+        <note measure="24" beat="2" duration="0.5" note="D4"/>
+        <note measure="24" beat="2.5" duration="0.5" note="C4"/>
+        
+        <note measure="25" beat="1" duration="0.5" note="A3"/>
+        <note measure="25" beat="1.5" duration="0.5" note="E4"/>
+        <note measure="25" beat="2" duration="0.5" note="C4"/>
+        <note measure="25" beat="2.5" duration="0.5" note="A3"/>
+        
+        <note measure="26" beat="1" duration="0.5" note="E4"/>
+        <note measure="26" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="26" beat="2" duration="0.5" note="E4"/>
+        <note measure="26" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="26" beat="3" duration="0.5" note="E4"/>
+        
+        <note measure="27" beat="1" duration="0.5" note="B3"/>
+        <note measure="27" beat="1.5" duration="0.5" note="D4" gliss="C4"/>
+        <note measure="27" beat="2" duration="0.5" note="C4"/>
+        <note measure="27" beat="2.5" duration="0.5" note="A3"/>
+
+	<note measure="28" beat="1" duration="0.5" note="E4"/>
+        <note measure="28" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="28" beat="2" duration="0.5" note="E4"/>
+        <note measure="28" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="28" beat="3" duration="0.5" note="E4"/>
+        
+        <note measure="29" beat="1" duration="0.5" note="B3"/>
+        <note measure="29" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="29" beat="2" duration="0.5" note="C4"/>
+        <note measure="29" beat="2.5" duration="0.5" note="A3"/>
+        
+        <note measure="30" beat="1" duration="0.5" note="C3"/>
+        <note measure="30" beat="1.5" duration="0.5" note="E3"/>
+        <note measure="30" beat="2" duration="0.5" note="A3"/>
+        <note measure="30" beat="2.5" duration="0.5" note="B3"/>
+        
+        <note measure="31" beat="1" duration="0.5" note="E4"/>
+        <note measure="31" beat="1.5" duration="0.5" note="G4"/>
+        <note measure="31" beat="2" duration="0.5" note="F4"/>
+        <note measure="31" beat="2.5" duration="0.5" note="E4"/>
+        
+        <note measure="32" beat="1" duration="0.5" note="D4"/>
+        <note measure="32" beat="1.5" duration="0.5" note="F4"/>
+        <note measure="32" beat="2" duration="0.5" note="E4"/>
+        <note measure="32" beat="2.5" duration="0.5" note="D4"/>
+        
+        <note measure="33" beat="1" duration="0.5" note="E4"/>
+        <note measure="33" beat="1.5" duration="0.5" note="B3"/>
+        <note measure="33" beat="2" duration="0.5" note="D4"/>
+        <note measure="33" beat="2.5" duration="0.5" note="C4"/>
+        
+        <note measure="34" beat="1" duration="0.5" note="A3"/>
+        <note measure="34" beat="1.5" duration="0.5" note="E4"/>
+        <note measure="34" beat="2" duration="0.5" note="C4" gliss="A3"/>
+        <note measure="34" beat="2.5" duration="0.5" note="A3"/>
+        
+        <note measure="35" beat="1" duration="0.5" note="E4"/>
+        <note measure="35" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="35" beat="2" duration="0.5" note="E4"/>
+        <note measure="35" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="35" beat="3" duration="0.5" note="E4"/>
+        
+        <note measure="36" beat="1" duration="0.5" note="B3"/>
+        <note measure="36" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="36" beat="2" duration="0.5" note="C4"/>
+        <note measure="36" beat="2.5" duration="0.5" note="A3"/>
+
+	<note measure="37" beat="1" duration="0.5" note="E4"/>
+        <note measure="37" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="37" beat="2" duration="0.5" note="E4"/>
+        <note measure="37" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="37" beat="3" duration="0.5" note="E4"/>
+        
+        <note measure="38" beat="1" duration="0.5" note="B3"/>
+        <note measure="38" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="38" beat="2" duration="0.5" note="C4"/>
+        <note measure="38" beat="2.5" duration="0.5" note="A3"/>
+        
+        <note measure="39" beat="1" duration="0.5" note="C3"/>
+        <note measure="39" beat="1.5" duration="0.5" note="E3"/>
+        <note measure="39" beat="2" duration="0.5" note="A3"/>
+        <note measure="39" beat="2.5" duration="0.5" note="B3"/>
+        
+        <note measure="40" beat="1" duration="0.5" note="E4"/>
+        <note measure="40" beat="1.5" duration="0.5" note="G4"/>
+        <note measure="40" beat="2" duration="0.5" note="F4"/>
+        <note measure="40" beat="2.5" duration="0.5" note="E4"/>
+        
+        <note measure="41" beat="1" duration="0.5" note="D4" gliss="F4"/>
+        <note measure="41" beat="1.5" duration="0.5" note="F4"/>
+        <note measure="41" beat="2" duration="0.5" note="E4"/>
+        <note measure="41" beat="2.5" duration="0.5" note="D4"/>
+        
+        <note measure="42" beat="1" duration="0.5" note="E4"/>
+        <note measure="42" beat="1.5" duration="0.5" note="B3"/>
+        <note measure="42" beat="2" duration="0.5" note="D4"/>
+        <note measure="42" beat="2.5" duration="0.5" note="C4"/>
+        
+        <note measure="43" beat="1" duration="0.5" note="A3"/>
+        <note measure="43" beat="1.5" duration="0.5" note="E4"/>
+        <note measure="43" beat="2" duration="0.5" note="C4"/>
+        <note measure="43" beat="2.5" duration="0.5" note="A3"/>
+        
+        <note measure="44" beat="1" duration="0.5" note="E4"/>
+        <note measure="44" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="44" beat="2" duration="0.5" note="E4"/>
+        <note measure="44" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="44" beat="3" duration="0.5" note="E4"/>
+        
+        <note measure="45" beat="1" duration="0.5" note="B3"/>
+        <note measure="45" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="45" beat="2" duration="0.5" note="C4"/>
+        <note measure="45" beat="2.5" duration="0.5" note="A3"/>
+
+	<note measure="46" beat="1" duration="0.5" note="E4" gliss="D4"/>
+        <note measure="46" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="46" beat="2" duration="0.5" note="E4"/>
+        <note measure="46" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="46" beat="3" duration="0.5" note="E4"/>
+        
+        <note measure="47" beat="1" duration="0.5" note="B3"/>
+        <note measure="47" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="47" beat="2" duration="0.5" note="C4"/>
+        <note measure="47" beat="2.5" duration="0.5" note="A3"/>
+        
+        <note measure="48" beat="1" duration="0.5" note="C3"/>
+        <note measure="48" beat="1.5" duration="0.5" note="E3"/>
+        <note measure="48" beat="2" duration="0.5" note="A3"/>
+        <note measure="48" beat="2.5" duration="0.5" note="B3"/>
+        
+        <note measure="49" beat="1" duration="0.5" note="E4"/>
+        <note measure="49" beat="1.5" duration="0.5" note="G4"/>
+        <note measure="49" beat="2" duration="0.5" note="F4"/>
+        <note measure="49" beat="2.5" duration="0.5" note="E4"/>
+        
+        <note measure="50" beat="1" duration="0.5" note="D4"/>
+        <note measure="50" beat="1.5" duration="0.5" note="F4" gliss="E4"/>
+        <note measure="50" beat="2" duration="0.5" note="E4" gliss="D4"/>
+        <note measure="50" beat="2.5" duration="0.5" note="D4"/>
+        
+        <note measure="51" beat="1" duration="0.5" note="E4"/>
+        <note measure="51" beat="1.5" duration="0.5" note="B3"/>
+        <note measure="51" beat="2" duration="0.5" note="D4"/>
+        <note measure="51" beat="2.5" duration="0.5" note="C4"/>
+        
+        <note measure="52" beat="1" duration="0.5" note="A3"/>
+        <note measure="52" beat="1.5" duration="0.5" note="E4"/>
+        <note measure="52" beat="2" duration="0.5" note="C4"/>
+        <note measure="52" beat="2.5" duration="0.5" note="A3"/>
+        
+        <note measure="53" beat="1" duration="0.5" note="E4"/>
+        <note measure="53" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="53" beat="2" duration="0.5" note="E4"/>
+        <note measure="53" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="53" beat="3" duration="0.5" note="E4"/>
+        
+        <note measure="54" beat="1" duration="0.5" note="B3" gliss="D4"/>
+        <note measure="54" beat="1.5" duration="0.5" note="D4"/>
+        <note measure="54" beat="2" duration="0.5" note="C4" gliss="A3"/>
+        <note measure="54" beat="2.5" duration="0.5" note="A3"/>
+
+        <note measure="55" beat="1" duration="0.75" note="B3"/>
+        <note measure="55" beat="1.75" duration="0.75" note="C4"/>
+        <note measure="55" beat="2.5" duration="0.5" note="D4"/>
+        <note measure="55" beat="3" duration="1" note="E4"/>
+    </instrument>
+
+    <instrument instrument="Chorus">
+          <note delay=".0025" wet=".7" dry=".3" range=".5" rate="2"/>
+     </instrument>
+     <instrument instrument="Flange">
+          <note delay=".0005" wet=".7" dry=".3" range=".5" rate="2" level="2"/>
+     </instrument>
+     <instrument instrument="NoiseGate">
+          <note threshold="50" wet="1" dry="0"/>
+     </instrument>
+     <instrument instrument="Compressor">
+          <note threshold="10" wet="1" dry="0" ratio="2"/>
+     </instrument>
+
+</score>
