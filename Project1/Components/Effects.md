@@ -6,9 +6,9 @@ The effects were completed by Bhaaniu Jain.
 
 ##### The actual score file used for your selection: [effects.score](./effects.score) is the score file used to demonstrate the effects component. This is the audio file generated from the .score file: [effects.wav](./effects.wav). AI was used to add some chords towards the end to create a longer piece.
 
-## Components and their Explanations
+## Effects Components and their Explanations
 
-Effects:
+Effects Components:
 
 - Noisegate:
   Noise gates are common in audio recording and live sound environments. They help keep audio clean by preventing background sounds from entering the mix. They’re often used on individual instrument tracks, vocal recordings, and drum microphones to prevent bleed from other instruments or ambient noise.
