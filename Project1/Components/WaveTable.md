@@ -6,8 +6,10 @@ The format of your score files: A .score file was used, in the XML format
 
 ##### The actual score file used for your selection: The actual score file used for your selection: [Wave.score](./Wave.score) is the score file used to demonstrate the effects component. This is the audio file generated from the .score file: [Wave.wav](./Wave.wav). AI was used to create this piece.
 
+## Wavetable Components and their Explanations
 
-Synthesis Component(s):
+Wavetable Component(s):
+
 - Wavetable Synthesizer: Wavetable synthesis uses short, single-cycle audio recordings to produce sound, with waveforms that can be derived from real instruments or created mathematically. Unlike longer samples, these waveforms are stored in a "wavetable" and modulated to create dynamic sounds. A core feature is the ability to sweep through different waveforms in the wavetable, modulated by an LFO, envelope, or pressure changes, which produces smooth, evolving timbres. Some wavetables emulate analog effects such as pulse-width modulation through variations in square wave duty cycles. 
 - Envelope generation: Envelope generation controls how a sound evolves in stages: Attack is the initial rise from silence to peak volume, with faster attacks sounding sharp and slower ones more gradual. Decay follows, where the sound drops from peak to a steady Sustain level, which holds as long as the note is played. Finally, Release controls how the sound fades back to silence after the note ends. This ADSR model can shape not only volume but also other sound characteristics, allowing for dynamic, expressive tones.
 - Pitch: Pitch adjustment in synthesis involves altering the playback speed of a waveform to change its frequency. For example, playing a waveform at double speed doubles the pitch, while playing it slower lowers the pitch. By modifying the sample rate, you can control the playback speed and, consequently, the pitch.
