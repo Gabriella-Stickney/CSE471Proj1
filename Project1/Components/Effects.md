@@ -6,6 +6,8 @@ The effects were completed by Bhaaniu Jain.
 
 ##### The actual score file used for your selection: [effects.score](./effects.score) is the score file used to demonstrate the effects component. This is the audio file generated from the .score file: [effects.wav](./effects.wav). AI was used to add some chords towards the end to create a longer piece.
 
+## Components and their Explanations
+
 Effects:
 
 - Noisegate:
