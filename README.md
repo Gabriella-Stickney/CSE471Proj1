@@ -1,60 +1,63 @@
-# Project 1: Multi-Component Music Synthesizer
+# Project 1: Wavetable Synthesizer and Effects Component
+
+The .score file we used to generate this audio is called furelise.score.
 
 [Link to Audio File](./Project1/fureelise.wav)
+__________________________________________________________________________________________________________________________________
+
+## The group members:
+* Gabriella Stickney
+* Bhaaniu Jain
 
 
-
-# Title for selection:
-
-### The group members: Gabriella Stickney, Bhaaniu Jain
-
-###### The format of your score files:
-
-###### The actual score file used for your selection: 
-
-effects_test.score is the score file used to demonstrate the effects component. AI was used to add some chords towards the end to create a longer piece.
-
-wave.score is the file used to demonstrate the @@@@ synthesizer component.
-
-furelise.score is the score file used to demonstrate all of the components together.
-
-**Remove!! One page for each component that describes the functioning of that component in detail.  Indicate ownership of each component and what grading elements are supported.
-
-____________________________________________________
-The synthesis component(s) was completed by Gabriella.
-
-Synthesis Component(s):
-- Additive:
-The additive component is a technique that creates sound by combining sine waves. An additive synthesizer uses the principle that any sound can be formed by adding sinusoid, by specifying the amplitudes of the fundamental frequency and its harmonics.
-
-The grading elements supported are 
-- Sinusoid playback on demand from the sequencer
-- Definition of all harmonics
-- Envelope generation
-- Polyphony
-- Sound cross-fading
-- Vibrato
+## Navigation:
+* [Effects](./Components/Effects.md)
+* [Wavetable](./ComponentPages/Wavetable.md)
 
 
+## Project Details:
+In this project we were tasked with creating an Effects Component along with a synthesizer of out choice. We utilized multiple XML Files to store the notes and information about which effects and synthesizer we wanted to use. Each note is a tied to an instrument which is specified at the top along with the the effects. We can also have multiple effects running at the same time.
+Here is a sample base XML file:
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="2">
+     <instrument instrument="ToneInstrument">
+          <note measure="1" beat="2" duration="0.33" note="F4"/>
+          <note measure="1" beat="2.33" duration="0.33" note="G4"/>
+          <note measure="1" beat="2.6" duration="0.33" note="A4"/>
 
+          <note measure="2" beat="1" duration="0.5" note="Bb4"/>
+          <note measure="2" beat="1" duration="0.5" note="G4"/>
+          <note measure="2" beat="1" duration="0.5" note="Eb4"/>
 
-The effects were completed by Bhaaniu.
+          <note measure="3" beat="1" duration="0.5" note="Bb4"/>
+          <note measure="3" beat="1" duration="0.5" note="G4"/>
+          <note measure="3" beat="1" duration="0.5" note="Eb4"/>
 
-Effects:
+          <note measure="4" beat="1" duration="0.5" note="Bb4"/>
+          <note measure="4" beat="1" duration="0.5" note="D4"/>
+          <note measure="4" beat="1" duration="0.5" note="F4"/>
 
-- Noisegate:
-  Noise gates are common in audio recording and live sound environments. They help keep audio clean by preventing background sounds from entering the mix. They’re often used on individual instrument tracks, vocal recordings, and drum microphones to prevent bleed from other instruments or ambient noise.
-- Compression:
-  Compression is a dynamic audio processing technique that reduces the volume of the loudest parts of a sound while boosting softer parts, resulting in a more balanced and controlled sound.
-- Chorus:
-  Chorus is an audio effect that thickens and broadens a sound by creating multiple, slightly varied copies of the original signal and blending them. This simulates the effect of multiple instruments or voices playing or singing the same notes together.
-- Flange:
-  Flanging is an audio effect that creates a sweeping, jet-like sound by mixing two identical audio signals, with one signal slightly delayed. This slight delay causes phase cancellations and reinforcements in different frequency bands, producing a characteristic "whooshing" or "swirling" effect.
+          <note measure="4" beat="2" duration="0.5" note="Bb4"/>
+          <note measure="4" beat="2" duration="0.5" note="G4"/>
+          <note measure="4" beat="2" duration="0.5" note="Eb4"/>
 
+          <note measure="5" beat="1" duration="0.5" note="Bb4"/>
+          <note measure="5" beat="1" duration="0.5" note="D4"/>
+          <note measure="5" beat="1" duration="0.5" note="F4"/>
 
-The grading elements supported are
-- Component passes audio
-- 1 Effect
-- 3 Effects
-- Controllable effects send
-- 4 Effects
+          <note measure="6" beat="1" duration="0.5" note="G4"/>
+          <note measure="6" beat="1.5" duration="0.5" note="F#4"/>
+          <note measure="6" beat="2" duration="0.5" note="G4"/>
+          <note measure="6" beat="2.5" duration="0.5" note="G#4"/>
+
+          <note measure="7" beat="1" duration="1" note="A4"/>
+          <note measure="7" beat="2" duration="1" note="F4"/>
+
+          <note measure="8" beat="1" duration="3" note="Bb4"/>
+          <note measure="8" beat="1" duration="3" note="F4"/>
+          <note measure="8" beat="1" duration="3" note="D4"/>
+     </instrument>
+</score>
+```
+Fight 2 Score file was provided for us to use
