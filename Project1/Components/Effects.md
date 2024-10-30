@@ -4,7 +4,7 @@ The effects were completed by Bhaaniu Jain.
 
 ##### The format of your score files: A .score file was used, in the XML format
 
-##### The actual score file used for your selection: [effects_test.score](./Project1/effects_test.score) is the score file used to demonstrate the effects component. AI was used to add some chords towards the end to create a longer piece.
+##### The actual score file used for your selection: [effects_test.score](./Project1/effects_test.score) is the score file used to demonstrate the effects component. This is the audio file generated from the .score file: [effects_test](./Project1/efffects_test.wav). AI was used to add some chords towards the end to create a longer piece.
 
 Effects:
 
