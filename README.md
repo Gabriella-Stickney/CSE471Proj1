@@ -1,3 +1,9 @@
+# Project 1: Multi-Component Music Synthesizer
+
+[Link to Audio File](./Project1/fureelise.wav)
+
+
+
 # Title for selection:
 
 ### The group members: Gabriella Stickney, Bhaaniu Jain
