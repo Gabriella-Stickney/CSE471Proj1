@@ -1,17 +1,10 @@
+# Effects Component
 
+The effects were completed by Bhaaniu Jain.
 
-###### The format of your score files:
+##### The format of your score files: A .score file was used, in the XML format
 
-###### The actual score file used for your selection: 
-
-
-**Remove!! One page for each component that describes the functioning of that component in detail.  Indicate ownership of each component and what grading elements are supported.
-
-
-
-
-effects_test.score is the score file used to demonstrate the effects component. AI was used to add some chords towards the end to create a longer piece.
-The effects were completed by Bhaaniu.
+##### The actual score file used for your selection: [effects_test.score](./Project1/effects_test.score) is the score file used to demonstrate the effects component. AI was used to add some chords towards the end to create a longer piece.
 
 Effects:
 
@@ -31,3 +24,86 @@ The grading elements supported are
 - 3 Effects
 - Controllable effects send
 - 4 Effects
+
+
+The XML for the effects_test.score is below:
+
+```xml
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="2">
+     <instrument instrument="ToneInstrument" chorus="8" flange="8" noisegate="8" compression="8">
+          <note measure="1" beat="2" duration="0.33" note="F4"/>
+          <note measure="1" beat="2.33" duration="0.33" note="G4"/>
+          <note measure="1" beat="2.6" duration="0.33" note="A4"/>
+
+          <note measure="2" beat="1" duration="0.5" note="Bb4"/>
+          <note measure="2" beat="1" duration="0.5" note="G4"/>
+          <note measure="2" beat="1" duration="0.5" note="Eb4"/>
+
+          <note measure="3" beat="1" duration="0.5" note="Bb4"/>
+          <note measure="3" beat="1" duration="0.5" note="G4"/>
+          <note measure="3" beat="1" duration="0.5" note="Eb4"/>
+
+          <note measure="4" beat="1" duration="0.5" note="Bb4"/>
+          <note measure="4" beat="1" duration="0.5" note="D4"/>
+          <note measure="4" beat="1" duration="0.5" note="F4"/>
+
+          <note measure="4" beat="2" duration="0.5" note="Bb4"/>
+          <note measure="4" beat="2" duration="0.5" note="G4"/>
+          <note measure="4" beat="2" duration="0.5" note="Eb4"/>
+
+          <note measure="5" beat="1" duration="0.5" note="Bb4"/>
+          <note measure="5" beat="1" duration="0.5" note="D4"/>
+          <note measure="5" beat="1" duration="0.5" note="F4"/>
+
+          <note measure="6" beat="1" duration="0.5" note="G4"/>
+          <note measure="6" beat="1.5" duration="0.5" note="F#4"/>
+          <note measure="6" beat="2" duration="0.5" note="G4"/>
+          <note measure="6" beat="2.5" duration="0.5" note="G#4"/>
+
+          <note measure="7" beat="1" duration="1" note="A4"/>
+          <note measure="7" beat="2" duration="1" note="F4"/>
+
+          <note measure="8" beat="1" duration="3" note="Bb4"/>
+          <note measure="8" beat="1" duration="3" note="F4"/>
+          <note measure="8" beat="1" duration="3" note="D4"/>
+
+          <note measure="9" beat="1" duration="3" note="A4"/>
+          <note measure="9" beat="2" duration="3" note="F4"/>
+
+          <note measure="10" beat="1" duration="2" note="Bb4"/>
+          <note measure="10" beat="1" duration="2" note="F4"/>
+          <note measure="10" beat="1" duration="2" note="D4"/>
+
+
+ 	  <note measure="11" beat="1" duration="1" note="E4"/>
+          <note measure="11" beat="1" duration="1" note="G4"/>
+          <note measure="11" beat="2" duration="1" note="B4"/>
+
+          <note measure="12" beat="1" duration="0.75" note="C5"/>
+          <note measure="12" beat="1.75" duration="0.75" note="E5"/>
+          <note measure="12" beat="2.5" duration="0.5" note="G5"/>
+
+          <note measure="13" beat="1" duration="1.5" note="D4"/>
+          <note measure="13" beat="1" duration="1.5" note="F4"/>
+          <note measure="13" beat="2.5" duration="0.5" note="A4"/>
+
+          <note measure="14" beat="1" duration="0.5" note="C4"/>
+          <note measure="14" beat="1.5" duration="0.5" note="E4"/>
+          <note measure="14" beat="2" duration="0.5" note="G4"/>
+          <note measure="14" beat="2.5" duration="0.5" note="B4"/>
+     </instrument>
+     <instrument instrument="Chorus">
+          <note delay=".0025" wet=".7" dry=".3" range=".5" rate="2"/>
+     </instrument>
+     <instrument instrument="Flange">
+          <note delay=".0005" wet=".7" dry=".3" range=".5" rate="2" level="2"/>
+     </instrument>
+     <instrument instrument="NoiseGate">
+          <note threshold="50" wet="1" dry="0"/>
+     </instrument>
+     <instrument instrument="Compressor">
+          <note threshold="10" wet="1" dry="0" ratio="2"/>
+     </instrument>
+</score>
+```
