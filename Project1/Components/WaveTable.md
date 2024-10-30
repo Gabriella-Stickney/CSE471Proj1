@@ -1,6 +1,6 @@
 # Wavetable Component
 
-The effects were completed by Gabriella Stickney.
+The synthesizer was completed by Gabriella Stickney.
 
 The format of your score files: A .score file was used, in the XML format
 
