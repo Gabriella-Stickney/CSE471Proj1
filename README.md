@@ -11,8 +11,8 @@ ________________________________________________________________________________
 
 
 ## Navigation:
-* [Effects](./Components/Effects.md)
-* [Wavetable](./ComponentPages/Wavetable.md)
+* [Effects](./Project1/Components/Effects.md)
+* [Wavetable](./Project1/Components/WaveTable.md)
 
 
 ## Project Details:
