@@ -1,8 +1,10 @@
-# Project 1: Wavetable Synthesizer and Effects Component
+# Project 1: Wavetable Synthesizer with Effects Component
 
-The .score file we used to generate this audio is called furelise.score.
+The .score file we used to generate this audio to showcase the wavetable synthesizer and the effects components is called "furelise.score".
 
 [Link to Audio File](./Project1/fureelise.wav)
+
+[Link to Score File](./Project1/furelise.score)
 __________________________________________________________________________________________________________________________________
 
 ## The group members:
@@ -16,8 +18,8 @@ ________________________________________________________________________________
 
 
 ## Project Details:
-In this project we were tasked with creating an Effects Component along with a synthesizer of out choice. We utilized multiple XML Files to store the notes and information about which effects and synthesizer we wanted to use. Each note is a tied to an instrument which is specified at the top along with the the effects. We can also have multiple effects running at the same time.
-Here is a sample base XML file:
+In this project we were tasked with creating an Effects Component along with a synthesizer of our choice. We utilized multiple XML Files to store the notes and information about which effects and synthesizer we wanted to use. Each note is tied to an instrument which is specified at the top along with the the effect(s) implemented within the score file as well. We can also have multiple effects running at the same time.
+Here is a sample base XML file using the "fight2.score" file which was provided to us to use with step 5:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <score bpm="120" beatspermeasure="2">
@@ -60,4 +62,4 @@ Here is a sample base XML file:
      </instrument>
 </score>
 ```
-Fight 2 Score file was provided for us to use
+
