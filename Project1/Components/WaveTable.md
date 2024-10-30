@@ -4,7 +4,7 @@ The effects were completed by Gabriella Stickney.
 
 The format of your score files: A .score file was used, in the XML format
 
-##### The actual score file used for your selection: The actual score file used for your selection: [Wave.score](./Project1/Wave.score) is the score file used to demonstrate the effects component. This is the audio file generated from the .score file: [Wave.wav](./Project1/Wave.wav). AI was used to create this piece.
+##### The actual score file used for your selection: The actual score file used for your selection: [Wave.score](./Wave.score) is the score file used to demonstrate the effects component. This is the audio file generated from the .score file: [Wave.wav](./Wave.wav). AI was used to create this piece.
 
 
 Synthesis Component(s):
