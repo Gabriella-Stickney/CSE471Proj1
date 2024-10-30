@@ -1,3 +1,15 @@
+
+
+###### The format of your score files:
+
+###### The actual score file used for your selection: 
+
+
+**Remove!! One page for each component that describes the functioning of that component in detail.  Indicate ownership of each component and what grading elements are supported.
+
+
+
+
 wave.score is the file used to demonstrate the Wavetable synthesizer component.
 ____________________________________________________
 The synthesis component(s) was completed by Gabriella.
